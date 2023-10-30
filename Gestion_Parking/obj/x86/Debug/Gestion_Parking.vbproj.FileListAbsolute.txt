@@ -1,0 +1,14 @@
+C:\Users\moukhtar\Desktop\programmation événementielle\Gestion_Parking\Gestion_Parking\bin\Debug\Gestion_Parking.exe
+C:\Users\moukhtar\Desktop\programmation événementielle\Gestion_Parking\Gestion_Parking\bin\Debug\Gestion_Parking.pdb
+C:\Users\moukhtar\Desktop\programmation événementielle\Gestion_Parking\Gestion_Parking\bin\Debug\Gestion_Parking.xml
+C:\Users\moukhtar\Desktop\programmation événementielle\Gestion_Parking\Gestion_Parking\obj\x86\Debug\Gestion_Parking.Form2.resources
+C:\Users\moukhtar\Desktop\programmation événementielle\Gestion_Parking\Gestion_Parking\obj\x86\Debug\Gestion_Parking.GestionUtilisateurs.resources
+C:\Users\moukhtar\Desktop\programmation événementielle\Gestion_Parking\Gestion_Parking\obj\x86\Debug\Gestion_Parking.GestionVoituers.resources
+C:\Users\moukhtar\Desktop\programmation événementielle\Gestion_Parking\Gestion_Parking\obj\x86\Debug\Gestion_Parking.Resources.resources
+C:\Users\moukhtar\Desktop\programmation événementielle\Gestion_Parking\Gestion_Parking\obj\x86\Debug\Gestion_Parking.vbproj.GenerateResource.Cache
+C:\Users\moukhtar\Desktop\programmation événementielle\Gestion_Parking\Gestion_Parking\obj\x86\Debug\Gestion_Parking.exe
+C:\Users\moukhtar\Desktop\programmation événementielle\Gestion_Parking\Gestion_Parking\obj\x86\Debug\Gestion_Parking.xml
+C:\Users\moukhtar\Desktop\programmation événementielle\Gestion_Parking\Gestion_Parking\obj\x86\Debug\Gestion_Parking.pdb
+C:\Users\moukhtar\Desktop\programmation événementielle\Gestion_Parking\Gestion_Parking\obj\x86\Debug\Gestion_Parking.GestionCamions.resources
+C:\Users\moukhtar\Desktop\programmation événementielle\Gestion_Parking\Gestion_Parking\obj\x86\Debug\Gestion_Parking.GestionConnexion.resources
+C:\Users\moukhtar\Desktop\programmation événementielle\Gestion_Parking\Gestion_Parking\obj\x86\Debug\Gestion_Parking.GestionParking.resources

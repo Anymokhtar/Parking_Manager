@@ -1,0 +1,68 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+GestionParking
+</name>
+</assembly>
+<members>
+<member name="P:Gestion_Parking.My.Resources.Resources.ResourceManager">
+	<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member><member name="P:Gestion_Parking.My.Resources.Resources.Culture">
+	<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member><member name="P:Gestion_Parking.My.Resources.Resources._2071784">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gestion_Parking.My.Resources.Resources._78_785827_user_profile_avatar_login_account_male_user_icon">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gestion_Parking.My.Resources.Resources._93_938050_png_file_transparent_white_user_icon_png_download">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gestion_Parking.My.Resources.Resources.ac5d48ed6b81c8dcb8e18cc8687fbe49">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gestion_Parking.My.Resources.Resources.background_854_600a91d5e0c75516854378">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gestion_Parking.My.Resources.Resources.images">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gestion_Parking.My.Resources.Resources.kisspng_computer_icons_user_profile_user_badge_icon_png_5ab0cc4c0f8619_9548391915215360760636">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gestion_Parking.My.Resources.Resources.micro_car_png">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gestion_Parking.My.Resources.Resources.Sample_User_Icon">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gestion_Parking.My.Resources.Resources.steinar_engeland_112658">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gestion_Parking.My.Resources.Resources.steinar_engeland_1126581">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Gestion_Parking.My.Resources.Resources">
+	<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member>
+</members>
+</doc>
